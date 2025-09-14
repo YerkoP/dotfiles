@@ -1,0 +1,23 @@
+{
+    "dart.flutterSdkPath": "C:\\dev\\flutter",
+    "editor.tabSize": 2,
+    "editor.renderWhitespace": "all",
+    "editor.fontFamily": "Cascadia Code, Consolas, 'Courier New', monospace",
+    "editor.fontLigatures": "'ss01', 'ss02', 'ss03', 'ss04', 'ss05', 'ss06', 'zero', 'onum'",
+    "editor.tokenColorCustomizations": {
+        "comments": {
+            "fontStyle": "italic"
+        }
+    },
+    "extensions.ignoreRecommendations": true,
+    "explorer.confirmDelete": false,
+    "security.workspace.trust.untrustedFiles": "open",
+    "workbench.colorTheme": "Catppuccin Mocha",
+    "workbench.iconTheme": "catppuccin-mocha",
+    "files.associations": {
+        "*.luau": "lua"
+    },
+    "explorer.confirmDragAndDrop": false,
+    "svelte.enable-ts-plugin": true,
+    "editor.codeActionsOnSave": {}
+}
